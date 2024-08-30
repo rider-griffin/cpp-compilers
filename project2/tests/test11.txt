@@ -1,0 +1,12 @@
+S -> A e B *
+S -> g C *
+A -> a A *
+A -> B C *
+A -> f A *
+B -> b B *
+B -> *
+C -> c C *
+C -> D *
+C -> *
+D -> d *
+#

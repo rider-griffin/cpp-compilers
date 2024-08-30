@@ -1,0 +1,23 @@
+
+a, b, c ;
+
+{
+a = 4;
+b = 3;
+c = 5;
+
+SWITCH a {
+  CASE 10: {
+    output b;
+  } CASE 4: {
+    output a;
+  }
+  CASE 8: {
+    output a;
+  }
+   DEFAULT: {
+    output c;
+  }
+}
+}
+9 8 3 7

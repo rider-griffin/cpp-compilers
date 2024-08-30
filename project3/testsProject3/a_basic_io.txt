@@ -1,0 +1,11 @@
+a, b;
+{
+  input a;
+  input a;
+  output a;
+  input b;
+  input a;
+  output a;
+  output b;
+}
+2 4 6 8
